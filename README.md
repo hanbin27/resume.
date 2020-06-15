@@ -1,6 +1,6 @@
 # resume
 ---
-![이력서사진](KHB.png)
+![이력서사진](KHB.png)   
 <img scr=KHB.png height=70 widht=70>
 
 
