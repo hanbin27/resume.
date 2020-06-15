@@ -2,6 +2,8 @@
 ---
 ![이력서사진](KHB.png)
 
+<img src=KHB.png heigt=150 widht=150>
+
 기본정보/Basic information
 ---
 
