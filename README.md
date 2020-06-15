@@ -1,6 +1,6 @@
 # resume
 ---
-!<이력서사진>()
+!<이력서사진>(KHB.png)
 
 기본정보/Basic information
 ---
