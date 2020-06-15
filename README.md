@@ -1,6 +1,6 @@
 # resume
 ---
-
+!<이력서사진>()
 
 기본정보/Basic information
 ---
