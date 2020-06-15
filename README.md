@@ -1,7 +1,7 @@
 # resume
 ---
 ![이력서사진](KHB.png)
-<img scr=KHB.png height=150 widht=150>
+<img scr=KHB.png height=70 widht=70>
 ---
 이름: 김한빈
 전공:미래융합스쿨/ICT융합전공
